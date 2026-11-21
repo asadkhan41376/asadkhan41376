@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React.js | Next.js | JavaScript
 
-I'm a Web Developer with 3 years of experience building responsive, user-friendly web applications. I enjoy creating clean UI, developing reusable components, and integrating APIs to build practical web solutions.
+I'm a Web Developer with 2.5 years of experience building responsive, user-friendly web applications. I enjoy creating clean UI, developing reusable components, and integrating APIs to build practical web solutions.
 
 - 💻 Currently working on **The Local**, a multi-vendor marketplace platform.
 - 🌱 Exploring **PostgreSQL, Node.js, Express.js and backend development**.
